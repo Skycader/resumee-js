@@ -24,6 +24,7 @@ svg,img { max-width: 100%; height: auto; }
   1. >>> Headr Style
 ----------------------------------------------------------------*/
 .blue {color: blue}
+.red {color: red}
 .avatar {border-radius: 25px;}
 .project-1 {border-radius: 25px}
  
